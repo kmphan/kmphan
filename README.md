@@ -4,7 +4,7 @@ I'm a recent Software Engineer graduate from UC Irvine. I am proficient in Java 
 
 🖥️ Languages & Tools 
 ---
-
+<span class="iconify" data-icon="simple-icons:markdown" data-inline="false"></span>
 
 
 <!--
