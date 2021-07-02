@@ -4,8 +4,7 @@ I'm a recent Software Engineer graduate from UC Irvine. I am proficient in Java 
 
 🖥️ Languages & Tools 
 ---
-<span class="iconify" data-icon="simple-icons:markdown" data-inline="false"></span>
-
+[<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=LOGO">](<LINK>)
 
 <!--
 **kmphan/kmphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
