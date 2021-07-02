@@ -4,7 +4,7 @@ I'm a recent Software Engineer graduate from UC Irvine. I am proficient in Java 
 
 🖥️ Languages & Tools 
 ---
-<img src="https://img.shields.io/badge/Java-orange.svg?logo=Java"> <img src="https://img.shields.io/badge/Python-lightgrey.svg?logo=Python"> <img src="https://img.shields.io/badge/C++-lightgrey.svg?logo=C++"> <img src="https://img.shields.io/badge/CSS-lightgrey.svg?logo=CSS3"> <img src="https://img.shields.io/badge/MySQL-lightgrey.svg?logo=MySQL"> <img src="https://img.shields.io/badge/Java_Script-lightgrey.svg?logo=JavaScript"> <img src="https://img.shields.io/badge/React_Native-lightgrey.svg?logo=React">
+<img src="https://img.shields.io/badge/Java-orange.svg?logo=Java"> <img src="https://img.shields.io/badge/Python-yellow.svg?logo=Python"> <img src="https://img.shields.io/badge/C++-blue.svg?logo=C++">  <img src="https://img.shields.io/badge/MySQL-orange.svg?logo=MySQL"> <img src="https://img.shields.io/badge/Java_Script-lightgrey.svg?logo=JavaScript"> <img src="https://img.shields.io/badge/React_Native-lightgrey.svg?logo=React"> <img src="https://img.shields.io/badge/CSS-blue.svg?logo=CSS3">
 
 <!--
 **kmphan/kmphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
