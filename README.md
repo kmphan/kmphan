@@ -7,7 +7,7 @@ I'm a recent Software Engineer graduate from UC Irvine. I am proficient in Java 
 <img src="https://img.shields.io/badge/Java-orange.svg?logo=Java"> <img src="https://img.shields.io/badge/Python-yellow.svg?logo=Python"> <img src="https://img.shields.io/badge/C++-blue.svg?logo=C++">  <img src="https://img.shields.io/badge/MySQL-orange.svg?logo=MySQL"> <img src="https://img.shields.io/badge/Java_Script-blueviolet.svg?logo=JavaScript"> <img src="https://img.shields.io/badge/React_Native-pink.svg?logo=React"> <img src="https://img.shields.io/badge/CSS-blue.svg?logo=CSS3">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmphan&theme=gotham" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmphan)
 
 <!--
 **kmphan/kmphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
