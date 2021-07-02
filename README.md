@@ -2,6 +2,9 @@
 ---
 I'm a recent Software Engineer graduate from UC Irvine. I am proficient in Java and Python among other langauges. My more recent projects have allowed me to work with front-end development as well. 
 
+🖥️ Languages & Tools 
+---
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <!--
